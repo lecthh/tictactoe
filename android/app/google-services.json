@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438495381682",
+    "project_id": "ttt-fp",
+    "storage_bucket": "ttt-fp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438495381682:android:1469d82efd18d94789e1ab",
+        "android_client_info": {
+          "package_name": "com.example.final_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lBjLbVNNNjcQDt8cdiQmSwVKv5wh_PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
